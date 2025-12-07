@@ -6,6 +6,6 @@
 - ⚡ Fun fact: (I was an Athlete long ago. ....
 
 <!---
-almosthereneverwas/abel juncosa reyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+almosthereneverwas/@juncosareyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
